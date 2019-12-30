@@ -1,0 +1,11 @@
+/Users/boxingking/RiderProjects/dasdsdaa11111/dasdsdaa11111/bin/Debug/netcoreapp3.0/dasdsdaa11111
+/Users/boxingking/RiderProjects/dasdsdaa11111/dasdsdaa11111/bin/Debug/netcoreapp3.0/dasdsdaa11111.deps.json
+/Users/boxingking/RiderProjects/dasdsdaa11111/dasdsdaa11111/bin/Debug/netcoreapp3.0/dasdsdaa11111.runtimeconfig.json
+/Users/boxingking/RiderProjects/dasdsdaa11111/dasdsdaa11111/bin/Debug/netcoreapp3.0/dasdsdaa11111.runtimeconfig.dev.json
+/Users/boxingking/RiderProjects/dasdsdaa11111/dasdsdaa11111/bin/Debug/netcoreapp3.0/dasdsdaa11111.dll
+/Users/boxingking/RiderProjects/dasdsdaa11111/dasdsdaa11111/bin/Debug/netcoreapp3.0/dasdsdaa11111.pdb
+/Users/boxingking/RiderProjects/dasdsdaa11111/dasdsdaa11111/obj/Debug/netcoreapp3.0/dasdsdaa11111.csprojAssemblyReference.cache
+/Users/boxingking/RiderProjects/dasdsdaa11111/dasdsdaa11111/obj/Debug/netcoreapp3.0/dasdsdaa11111.AssemblyInfoInputs.cache
+/Users/boxingking/RiderProjects/dasdsdaa11111/dasdsdaa11111/obj/Debug/netcoreapp3.0/dasdsdaa11111.AssemblyInfo.cs
+/Users/boxingking/RiderProjects/dasdsdaa11111/dasdsdaa11111/obj/Debug/netcoreapp3.0/dasdsdaa11111.dll
+/Users/boxingking/RiderProjects/dasdsdaa11111/dasdsdaa11111/obj/Debug/netcoreapp3.0/dasdsdaa11111.pdb

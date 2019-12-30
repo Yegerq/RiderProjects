@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPlect", "OOPlect\OOPlect.csproj", "{7D85BFB7-022C-4D9B-83A4-F8DB3EC86E13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D85BFB7-022C-4D9B-83A4-F8DB3EC86E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D85BFB7-022C-4D9B-83A4-F8DB3EC86E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D85BFB7-022C-4D9B-83A4-F8DB3EC86E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D85BFB7-022C-4D9B-83A4-F8DB3EC86E13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

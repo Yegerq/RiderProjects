@@ -1,0 +1,11 @@
+/Users/boxingking/RiderProjects/OOPHW/OOPHW/bin/Debug/netcoreapp3.0/OOPHW
+/Users/boxingking/RiderProjects/OOPHW/OOPHW/bin/Debug/netcoreapp3.0/OOPHW.deps.json
+/Users/boxingking/RiderProjects/OOPHW/OOPHW/bin/Debug/netcoreapp3.0/OOPHW.runtimeconfig.json
+/Users/boxingking/RiderProjects/OOPHW/OOPHW/bin/Debug/netcoreapp3.0/OOPHW.runtimeconfig.dev.json
+/Users/boxingking/RiderProjects/OOPHW/OOPHW/bin/Debug/netcoreapp3.0/OOPHW.dll
+/Users/boxingking/RiderProjects/OOPHW/OOPHW/bin/Debug/netcoreapp3.0/OOPHW.pdb
+/Users/boxingking/RiderProjects/OOPHW/OOPHW/obj/Debug/netcoreapp3.0/OOPHW.csprojAssemblyReference.cache
+/Users/boxingking/RiderProjects/OOPHW/OOPHW/obj/Debug/netcoreapp3.0/OOPHW.AssemblyInfoInputs.cache
+/Users/boxingking/RiderProjects/OOPHW/OOPHW/obj/Debug/netcoreapp3.0/OOPHW.AssemblyInfo.cs
+/Users/boxingking/RiderProjects/OOPHW/OOPHW/obj/Debug/netcoreapp3.0/OOPHW.dll
+/Users/boxingking/RiderProjects/OOPHW/OOPHW/obj/Debug/netcoreapp3.0/OOPHW.pdb

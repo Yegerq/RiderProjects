@@ -1,0 +1,11 @@
+/Users/boxingking/RiderProjects/Car/Car/bin/Debug/netcoreapp3.0/Car
+/Users/boxingking/RiderProjects/Car/Car/bin/Debug/netcoreapp3.0/Car.deps.json
+/Users/boxingking/RiderProjects/Car/Car/bin/Debug/netcoreapp3.0/Car.runtimeconfig.json
+/Users/boxingking/RiderProjects/Car/Car/bin/Debug/netcoreapp3.0/Car.runtimeconfig.dev.json
+/Users/boxingking/RiderProjects/Car/Car/bin/Debug/netcoreapp3.0/Car.dll
+/Users/boxingking/RiderProjects/Car/Car/bin/Debug/netcoreapp3.0/Car.pdb
+/Users/boxingking/RiderProjects/Car/Car/obj/Debug/netcoreapp3.0/Car.csprojAssemblyReference.cache
+/Users/boxingking/RiderProjects/Car/Car/obj/Debug/netcoreapp3.0/Car.AssemblyInfoInputs.cache
+/Users/boxingking/RiderProjects/Car/Car/obj/Debug/netcoreapp3.0/Car.AssemblyInfo.cs
+/Users/boxingking/RiderProjects/Car/Car/obj/Debug/netcoreapp3.0/Car.dll
+/Users/boxingking/RiderProjects/Car/Car/obj/Debug/netcoreapp3.0/Car.pdb

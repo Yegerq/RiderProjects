@@ -1,0 +1,11 @@
+/Users/boxingking/RiderProjects/aSAsaS/aSAsaS/bin/Debug/netcoreapp3.0/aSAsaS
+/Users/boxingking/RiderProjects/aSAsaS/aSAsaS/bin/Debug/netcoreapp3.0/aSAsaS.deps.json
+/Users/boxingking/RiderProjects/aSAsaS/aSAsaS/bin/Debug/netcoreapp3.0/aSAsaS.runtimeconfig.json
+/Users/boxingking/RiderProjects/aSAsaS/aSAsaS/bin/Debug/netcoreapp3.0/aSAsaS.runtimeconfig.dev.json
+/Users/boxingking/RiderProjects/aSAsaS/aSAsaS/bin/Debug/netcoreapp3.0/aSAsaS.dll
+/Users/boxingking/RiderProjects/aSAsaS/aSAsaS/bin/Debug/netcoreapp3.0/aSAsaS.pdb
+/Users/boxingking/RiderProjects/aSAsaS/aSAsaS/obj/Debug/netcoreapp3.0/aSAsaS.csprojAssemblyReference.cache
+/Users/boxingking/RiderProjects/aSAsaS/aSAsaS/obj/Debug/netcoreapp3.0/aSAsaS.AssemblyInfoInputs.cache
+/Users/boxingking/RiderProjects/aSAsaS/aSAsaS/obj/Debug/netcoreapp3.0/aSAsaS.AssemblyInfo.cs
+/Users/boxingking/RiderProjects/aSAsaS/aSAsaS/obj/Debug/netcoreapp3.0/aSAsaS.dll
+/Users/boxingking/RiderProjects/aSAsaS/aSAsaS/obj/Debug/netcoreapp3.0/aSAsaS.pdb

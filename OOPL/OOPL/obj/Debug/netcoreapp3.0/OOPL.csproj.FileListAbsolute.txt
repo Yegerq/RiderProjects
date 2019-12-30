@@ -1,0 +1,11 @@
+/Users/boxingking/RiderProjects/OOPL/OOPL/bin/Debug/netcoreapp3.0/OOPL
+/Users/boxingking/RiderProjects/OOPL/OOPL/bin/Debug/netcoreapp3.0/OOPL.deps.json
+/Users/boxingking/RiderProjects/OOPL/OOPL/bin/Debug/netcoreapp3.0/OOPL.runtimeconfig.json
+/Users/boxingking/RiderProjects/OOPL/OOPL/bin/Debug/netcoreapp3.0/OOPL.runtimeconfig.dev.json
+/Users/boxingking/RiderProjects/OOPL/OOPL/bin/Debug/netcoreapp3.0/OOPL.dll
+/Users/boxingking/RiderProjects/OOPL/OOPL/bin/Debug/netcoreapp3.0/OOPL.pdb
+/Users/boxingking/RiderProjects/OOPL/OOPL/obj/Debug/netcoreapp3.0/OOPL.csprojAssemblyReference.cache
+/Users/boxingking/RiderProjects/OOPL/OOPL/obj/Debug/netcoreapp3.0/OOPL.AssemblyInfoInputs.cache
+/Users/boxingking/RiderProjects/OOPL/OOPL/obj/Debug/netcoreapp3.0/OOPL.AssemblyInfo.cs
+/Users/boxingking/RiderProjects/OOPL/OOPL/obj/Debug/netcoreapp3.0/OOPL.dll
+/Users/boxingking/RiderProjects/OOPL/OOPL/obj/Debug/netcoreapp3.0/OOPL.pdb

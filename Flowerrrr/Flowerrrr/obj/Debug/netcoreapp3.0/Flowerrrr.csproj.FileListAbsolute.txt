@@ -1,0 +1,11 @@
+/Users/boxingking/RiderProjects/Flowerrrr/Flowerrrr/bin/Debug/netcoreapp3.0/Flowerrrr
+/Users/boxingking/RiderProjects/Flowerrrr/Flowerrrr/bin/Debug/netcoreapp3.0/Flowerrrr.deps.json
+/Users/boxingking/RiderProjects/Flowerrrr/Flowerrrr/bin/Debug/netcoreapp3.0/Flowerrrr.runtimeconfig.json
+/Users/boxingking/RiderProjects/Flowerrrr/Flowerrrr/bin/Debug/netcoreapp3.0/Flowerrrr.runtimeconfig.dev.json
+/Users/boxingking/RiderProjects/Flowerrrr/Flowerrrr/bin/Debug/netcoreapp3.0/Flowerrrr.dll
+/Users/boxingking/RiderProjects/Flowerrrr/Flowerrrr/bin/Debug/netcoreapp3.0/Flowerrrr.pdb
+/Users/boxingking/RiderProjects/Flowerrrr/Flowerrrr/obj/Debug/netcoreapp3.0/Flowerrrr.csprojAssemblyReference.cache
+/Users/boxingking/RiderProjects/Flowerrrr/Flowerrrr/obj/Debug/netcoreapp3.0/Flowerrrr.AssemblyInfoInputs.cache
+/Users/boxingking/RiderProjects/Flowerrrr/Flowerrrr/obj/Debug/netcoreapp3.0/Flowerrrr.AssemblyInfo.cs
+/Users/boxingking/RiderProjects/Flowerrrr/Flowerrrr/obj/Debug/netcoreapp3.0/Flowerrrr.dll
+/Users/boxingking/RiderProjects/Flowerrrr/Flowerrrr/obj/Debug/netcoreapp3.0/Flowerrrr.pdb

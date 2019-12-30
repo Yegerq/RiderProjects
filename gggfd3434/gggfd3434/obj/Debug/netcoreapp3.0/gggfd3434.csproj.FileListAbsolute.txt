@@ -1,0 +1,11 @@
+/Users/boxingking/RiderProjects/gggfd3434/gggfd3434/bin/Debug/netcoreapp3.0/gggfd3434
+/Users/boxingking/RiderProjects/gggfd3434/gggfd3434/bin/Debug/netcoreapp3.0/gggfd3434.deps.json
+/Users/boxingking/RiderProjects/gggfd3434/gggfd3434/bin/Debug/netcoreapp3.0/gggfd3434.runtimeconfig.json
+/Users/boxingking/RiderProjects/gggfd3434/gggfd3434/bin/Debug/netcoreapp3.0/gggfd3434.runtimeconfig.dev.json
+/Users/boxingking/RiderProjects/gggfd3434/gggfd3434/bin/Debug/netcoreapp3.0/gggfd3434.dll
+/Users/boxingking/RiderProjects/gggfd3434/gggfd3434/bin/Debug/netcoreapp3.0/gggfd3434.pdb
+/Users/boxingking/RiderProjects/gggfd3434/gggfd3434/obj/Debug/netcoreapp3.0/gggfd3434.csprojAssemblyReference.cache
+/Users/boxingking/RiderProjects/gggfd3434/gggfd3434/obj/Debug/netcoreapp3.0/gggfd3434.AssemblyInfoInputs.cache
+/Users/boxingking/RiderProjects/gggfd3434/gggfd3434/obj/Debug/netcoreapp3.0/gggfd3434.AssemblyInfo.cs
+/Users/boxingking/RiderProjects/gggfd3434/gggfd3434/obj/Debug/netcoreapp3.0/gggfd3434.dll
+/Users/boxingking/RiderProjects/gggfd3434/gggfd3434/obj/Debug/netcoreapp3.0/gggfd3434.pdb
